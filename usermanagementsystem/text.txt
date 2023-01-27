@@ -1,0 +1,3 @@
+to start server : npx json-server --watch db.json --port 8000
+to start react : npm start
+to start both : npm run start:dev
