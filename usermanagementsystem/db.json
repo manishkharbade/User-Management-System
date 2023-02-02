@@ -8,60 +8,25 @@
       "password": "Manish@#09"
     },
     {
-      "name": "Manish",
-      "email": "manish@yahoo.com",
-      "phone": "987654321",
-      "password": "A@#12345",
-      "id": 2
+      "id": 2,
+      "name": "Ayush Nagarare",
+      "email": "ayushn@gmail.com",
+      "phone": "8976543212",
+      "password": "Ayush@#1234"
     },
     {
       "id": 3,
-      "name": "Ayush",
-      "email": "ayush@gmail.com",
-      "phone": "8765432120",
-      "password": "Ayush@#123"
-    },
-    {
-      "id": 4,
-      "name": "rohit",
-      "email": "rohit@gmail.com",
-      "phone": "8976543212",
-      "password": "Rohit@09876"
+      "name": "Ashlesh Chichkhede",
+      "email": "ashleshc@gmail.com",
+      "phone": "8976543210",
+      "password": "Ashlesh@#123"
     },
     {
       "id": 5,
-      "name": "Ashlesh",
-      "email": "ash@gmail.com",
-      "phone": "9876543212",
-      "password": "Ashlesh@#09"
-    },
-    {
-      "id": 6,
-      "name": "Virat Kohli",
-      "email": "viratk@gmail.com",
-      "phone": "9878765435",
-      "password": "Virat@#1234"
-    },
-    {
-      "id": 7,
-      "name": "Aniket",
-      "email": "aniket@gmail.com",
-      "phone": "7654321987",
-      "password": "Aniket#$9876"
-    },
-    {
-      "id": 8,
-      "name": "Swapnil",
-      "email": "swapnil@yahoo.com",
-      "phone": "9876543213",
-      "password": "Swapnil*&09"
-    },
-    {
-      "name": "Rajesh",
-      "email": "rajesh@gmail.com",
-      "phone": "7865432123",
-      "password": "Rajesh@#123",
-      "id": 9
+      "name": "Naresh",
+      "email": "naresh@gmail.com",
+      "phone": "9876543201",
+      "password": "Naresh@123"
     }
   ]
 }

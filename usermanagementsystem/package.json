@@ -1,5 +1,6 @@
 {
   "name": "usermanagementsystem",
+  "homepage": "https://mkharbade.github.io/User-Management-System",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +11,7 @@
     "axios": "^1.2.3",
     "bootstrap": "^5.2.3",
     "concurrently": "^7.6.0",
+    "gh-pages": "^5.0.0",
     "json-server": "^0.17.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,6 +21,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "json-server": "json-server --watch db.json --port 8000",
     "start:dev": "concurrently \"npm start\" \"npm run json-server\"",
